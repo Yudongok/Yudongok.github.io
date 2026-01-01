@@ -1,6 +1,6 @@
 # The Site Configuration
 
-# Import the theme
+# Import the theme 
 # (Chirpy Starter를 사용 중이라면 이 줄은 보통 필요 없으나, 로컬 구동을 위해 남겨둡니다)
 theme: jekyll-theme-chirpy
 
