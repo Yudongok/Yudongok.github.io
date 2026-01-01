@@ -78,7 +78,7 @@ cdn:
 
 # [중요] 사이드바 프로필 사진 경로
 # 프로젝트 폴더의 assets/img/ 폴더 안에 profile.jpg 라는 사진을 넣으세요.
-avatar: /assets/img/profile.jpg
+avatar: /assets/img/profile.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 social_preview_image:
